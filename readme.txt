@@ -4,3 +4,4 @@ Git has a multable index called stage.
 Git tracks changes of files.
 Git::dev::test for Fast forward.
 Git::master:: empty
+Git::dev::test for --no-ff.
