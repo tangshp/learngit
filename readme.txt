@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git::dev::test for Fast forward.
 Git::master:: empty
 Git::dev::test for --no-ff.
+Git::dev::add calculator[ADD].
